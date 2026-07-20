@@ -12,8 +12,6 @@
 
 ## 🌸 À propos de moi
 
-🎓 Étudiante en informatique
-
 🧪 J'ai commencé ma carrière en tant que chimiste, mais une découverte a complètement changé mon parcours : l'informatique.
 
 💻 Ce qui me passionne dans le développement, c'est la possibilité de créer des solutions qui simplifient le quotidien, automatisent des tâches chronophages et répondent à de vrais besoins.
