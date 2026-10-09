@@ -29,6 +29,7 @@
 🗄️ SQL  
 ⚙️ C  
 💜 C#
+🐘 PHP
 
 🎯 Mon objectif est de devenir développeuse et de créer des applications utiles, modernes et bien conçues.
 
@@ -46,6 +47,7 @@
 ![SQL](https://img.shields.io/badge/SQL-F06292?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-F8BBD9?style=for-the-badge&logo=c&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-F48FB1?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/C-F8BBD9?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🛠️ Outils
 
